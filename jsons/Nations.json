@@ -23,7 +23,7 @@
 		"innerColor": [16, 186, 13],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Frontline Generals",
-		"uniques":["[Great General] is earned [+20]% faster", "Comment [Unique Unit is a Great General military unit that scales by the era alongside having a stronger effect.]"]
+		"uniques":["[Great General] is earned [+20]% faster", "Comment [Unique Unit is a Great General military unit that scales by the land melee unit techs alongside having a stronger effect.]"]
 		"cities":["Nakhur","Shenlen","Tarah","Shaniz","Dofent","Suhtaet","Vhyr","Andofli","Dasmug","Lenes",
 			"Rauk","Jordsen","Senala","Ahfles","Enfon","Dmidrev","Hodra","Rakitin","Schubid","Stynlyn"]
 	},

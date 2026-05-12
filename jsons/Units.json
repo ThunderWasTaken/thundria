@@ -1,0 +1,17 @@
+[
+  {
+		"name": "Battlefield General",
+		"unitType": "Sword",
+		"uniqueTo": "Arshauni",
+		"replaces": "Great General",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": [
+            "[+20]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Can be earned through combat <for [Land] units>", "Is part of Great Person group [General]", "[This Unit] gets a name from the [General] group", "Great Person - [War]", "Unbuildable",  "[+6] Strength <after discovering [Iron Working]>",  "[+7] Strength <after discovering [Steel]>",  "[+3] Strength <after discovering [Gunpowder]>",  "[+10] Strength <after discovering [Rifling]>",  "[+16] Strength <after discovering [Replaceable Parts]>",  "[+20] Strength <after discovering [Plastics]>",  "[+20] Strength <after discovering [Mobile Tactics]>"],
+		"attackSound": "nonmetalhit",
+  }
+]

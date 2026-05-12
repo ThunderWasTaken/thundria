@@ -6,7 +6,6 @@
 		"replaces": "Great General",
 		"movement": 2,
 		"strength": 10,
-		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",

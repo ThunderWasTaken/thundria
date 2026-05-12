@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Sparring Grounds",
+		"replaces": "Barracks",
+		"uniqueTo": "Arshauni",
+		"hurryCostModifier": 25,
+        "culture": 1,
+		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+    }
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Arshauni",
+		"leaderName": "Catherine Crims",
+		"adjective": ["Arshauni"],
+		"startBias": ["Hill"],
+		"personality": "Catherine Crims",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Queen Catherine of the Crims Dynasty. Born during the turbulent Conquest era of the world, you took the throne at an early age. Accompanied by your three brothers you reformed the governance of what was once a backward tribe into an efficient feudal monarchy, taking inspiration from the Valricans but with your own twist of centralized power and stronger authority of the crown. Oh, Catherine. Your people call for your guidance and leadership. Can you take the throne and lead your people into greatness? Can you reform your nation into a great cultural hub that will be remembered for years to come? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "This conquest will bring us glory as we turn you into history!",
+		"attacked": "This transgression will not be forgotten!",
+		"defeated": "No... This is not right... We were supposed to win...",
+		"introduction": "You stand before the Queen of the Arshauni, I hope you are to be our friend.",
+
+		"neutralHello": "I greet you with open arms.",
+		"hateHello": "Relations can be fixed, use your words carefully.",
+
+		"tradeRequest": "Let us exchange wealth and goods for the goodness of both of our nations.",
+
+		"outerColor": [48, 34, 16],
+		"innerColor": [16, 186, 13],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Frontline Generals",
+		"uniques":["[Great General] is earned [+20]% faster", "Comment [Unique Unit is a Great General military unit that scales by the era alongside having a stronger effect.]"]
+		"cities":["Nakhur","Shenlen","Tarah","Shaniz","Dofent","Suhtaet","Vhyr","Andofli","Dasmug","Lenes",
+			"Rauk","Jordsen","Senala","Ahfles","Enfon","Dmidrev","Hodra","Rakitin","Schubid","Stynlyn"]
+	},
+]

@@ -7,5 +7,13 @@
         "culture": 1,
 		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Oblectare",
+		"replaces": "Circus",
+		"uniqueTo": "Redinma",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
     }
 ]

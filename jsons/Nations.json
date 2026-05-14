@@ -27,4 +27,32 @@
 		"cities":["Nakhur","Shenlen","Tarah","Shaniz","Dofent","Suhtaet","Vhyr","Andofli","Dasmug","Lenes",
 			"Rauk","Jordsen","Senala","Ahfles","Enfon","Dmidrev","Hodra","Rakitin","Schubid","Stynlyn"]
 	},
+        {
+		"name": "Redinma",
+		"leaderName": "Aureli Cestanus",
+		"adjective": ["Redinman"],
+		"startBias": ["Coast"],
+		"personality": "Aureli Cestanus",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Aureli Cestanus, King of Redinma. Originating from the line of the last few Valrican Emperors, your claim on the imperial throne is strong, yet contested. You stabilized the lands near the old capital and took full control of the peninsula that once was the capital of wealth in the world. Eventually, you began to march northwards to continue your attempts at reunifying the shattered nations of what was once the Valrican Empire. Oh, Aureli. The glory of the past calls to be reborn. Can you resurrect the ancient empire? Can you hold onto and control the disorganized realms of old? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Consider this a reconquering of what should be mine!",
+		"attacked": "You wield your sword like a noble, yet your actions is of a barbarian!",
+		"defeated": "My empire! You will pay for what you've done!",
+		"introduction": "Bow before who will soon be your emperor.",
+
+		"neutralHello": "I greet you.",
+		"hateHello": "Words can not express the humility you bring to your people.",
+
+		"tradeRequest": "I am willing to share my prosperity with you if you are willing to accept.",
+
+		"outerColor": [40, 12, 56],
+		"innerColor": [230, 230, 230],
+		"favoredReligion": "Christianity",
+		"uniqueName": "True Successor",
+		"uniques":["[+1 Happiness] <for [9999] turns> <upon conquering a city> <hidden from users>", "Comment [Capturing a city will grant you a permanent +1 Happiness that never decays.]"]
+		"cities":["Redinma","Tyron","Augustunopolis","Lucianus","Tilian","Teus","Gaiun","Nocie","Aurelinople","Capium",
+			"Velerius","Justialus","Guldum","Thesa","Ailion","Rovulia","Traja","Perator","Tokrat","Julionople"]
+	},
 ]

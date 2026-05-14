@@ -13,6 +13,7 @@
 		"replaces": "Circus",
 		"uniqueTo": "Redinma",
 		"happiness": 2,
+		"uniques": ["Comment [Does not require horses or any resources nearby to build.]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
     }

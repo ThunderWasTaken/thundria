@@ -37,7 +37,8 @@
 		"cost": 150,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "[Privateer] ability", "[+100]% Yield from pillaging tiles"],
+		"uniques": ["[+100]% Yield from pillaging tiles"],
+		"promotions": ["Coastal Raider I", "[Privateer] ability"],
 		"attackSound": "cannon"
   }
 ]

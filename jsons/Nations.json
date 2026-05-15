@@ -55,4 +55,32 @@
 		"cities":["Redinma","Tyron","Augustunopolis","Lucianus","Tilian","Teus","Gaiun","Nocie","Aurelinople","Capium",
 			"Velerius","Justialus","Guldum","Thesa","Ailion","Rovulia","Traja","Perator","Tokrat","Julionople"]
 	},
+        {
+		"name": "Velticia",
+		"leaderName": "Lorenzo Amalnoa",
+		"adjective": ["Veltician"],
+		"startBias": ["Coast"],
+		"personality": "Lorenzo Amalnoa",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Lorenzo Amalnoa, Podesta of the Veltician Republic. Born during the turbulent three hundred years after the fall of the Valrican Empire, you initially were a pirate leading a notorious crew which plundered the coasts of the Valrican provinces, after a major defeat which left you and many of your crew maimed, you retired in your homeland and got into politics where your cutthroat tactics and sheer gall got you the position of Podesta where your naval reforms gave Velticia a great advantage in their wars to come. Oh, Lorenzo. The smell of the seas awaken you. Can you plunder the lands of your enemies and absorb its riches? Can you lead your navy to conquer the seas and land that touches it? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "This is no trick, your time has come!",
+		"attacked": "Bring some extra towels, your men are sure to take a dip!",
+		"defeated": "It seems karma has finally caught up to me...",
+		"introduction": "I come with open hands and lowered weapons, shall it stay that way?",
+
+		"neutralHello": "Hi there!",
+		"hateHello": "The only thing worth my time when it comes to you would be if you were to give me tribute.",
+
+		"tradeRequest": "These goods are legitimately obtained, contrary to my usual hijinks.",
+
+		"outerColor": [40, 12, 56],
+		"innerColor": [230, 230, 230],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Privateer, not pirate!",
+		"uniques":["[+50]% construction time for [All Road] improvements <in [Coastal] tiles>", "When defeating a [{Melee] {Water}] unit, earn [0] Gold and recruit it <with [100]% chance> <hidden from users>", "When defeating a [{Ranged] {Water}] unit, earn [50] Gold and recruit it <with [0]% chance> <hidden from users>", "Comment [When defeating a melee water unit, recruit it. When defeating a ranged water unit, gain 50 gold.]"]
+		"cities":["Lulos","Resca","Lazzo","San Suvino","Renaro","Cassano","Senaria","Gia Turo","Salmo","Lorenz",
+			"Choggio","Liasco","Civitan","Rugi","Lazollo","Barapiago","Gapani","Gregano","Anastaso","Fredonia"]
+	},
 ]

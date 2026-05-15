@@ -75,11 +75,11 @@
 
 		"tradeRequest": "These goods are legitimately obtained, contrary to my usual hijinks.",
 
-		"outerColor": [40, 12, 56],
-		"innerColor": [230, 230, 230],
+		"outerColor": [239, 247, 119],
+		"innerColor": [58, 61, 6],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Privateer, not pirate!",
-		"uniques":["[+50]% construction time for [All Road] improvements <in [Coastal] tiles>", "When defeating a [{Melee] {Water}] unit, earn [0] Gold and recruit it <with [100]% chance> <hidden from users>", "When defeating a [{Ranged] {Water}] unit, earn [50] Gold and recruit it <with [0]% chance> <hidden from users>", "Comment [When defeating a melee water unit, recruit it. When defeating a ranged water unit, gain 50 gold.]"]
+		"uniques":["[+50]% construction time for [All Road] improvements <in [Coastal] tiles>", "When defeating a [{Melee} {Water}] unit, earn [0] Gold and recruit it <with [100]% chance> <hidden from users>", "When defeating a [{Ranged} {Water}] unit, earn [50] Gold and recruit it <with [0]% chance> <hidden from users>", "Comment [When defeating a melee water unit, recruit it. When defeating a ranged water unit, gain 50 gold.]"]
 		"cities":["Lulos","Resca","Lazzo","San Suvino","Renaro","Cassano","Senaria","Gia Turo","Salmo","Lorenz",
 			"Choggio","Liasco","Civitan","Rugi","Lazollo","Barapiago","Gapani","Gregano","Anastaso","Fredonia"]
 	},

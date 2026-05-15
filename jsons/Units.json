@@ -26,5 +26,18 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Corsair",
+		"unitType": "Melee Water",
+		"uniqueTo": "Velticia",
+		"replaces": "Privateer",
+		"movement": 5,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "[Privateer] ability", "[+100]% Yield from pillaging tiles"],
+		"attackSound": "cannon"
   }
 ]

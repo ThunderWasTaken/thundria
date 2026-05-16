@@ -40,5 +40,19 @@
 		"uniques": ["[+100]% Yield from pillaging tiles"],
 		"promotions": ["Coastal Raider I", "[Privateer] ability"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Obsidian Bladesman",
+		"unitType": "Sword",
+		"uniqueTo": "Tronixii",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
   }
 ]
